@@ -1,7 +1,11 @@
 # Hourly-Weatherdata
-Get historic hourly weather data from Wunderground and save it to a CSV file
+Get historic hourly weather data from Wunderground and save it to a CSV file using python
 
-Note that values will = -9999 or -999 for Null or Non applicable (NA) variables. Wundergrounds full Phrase Glossary
+Note that values will = -9999 or -999 for Null or Non applicable (NA) variables. Wundergrounds full Phrase Glossary. 
+
+I will demonstrate how to wrangle the csv file in R and merge it with the data set from Kaggle's New York Taxi Trip Challange here:
+https://github.com/meinertsen/WeatherWithR
+
 
 datetime: Date and time of day (EST)
 tempm: Temperature in Celcius
